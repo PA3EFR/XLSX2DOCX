@@ -37,7 +37,7 @@ def create_word_from_xlsx(excel_file, word_file):
 
 
 # Bestanden instellen
-excel_bestand = input("Geef het pad van het Excel-bestand op: ")
+excel_bestand = input("Geef de naam van het Excel-bestand op: ")
 word_bestand = input("Geef de naam van het uitvoerbestand op (met .docx): ")
 
 # Uitvoeren
